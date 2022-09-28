@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    if (true) {
+    if ((0 as any) == ("Heads" as any)) {
     	
     }
 })
