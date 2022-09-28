@@ -1,5 +1,5 @@
 {
-    "name": "Two coin tossing game1",
+    "name": "Two coin tossing game",
     "description": "",
     "dependencies": {
         "core": "*",
